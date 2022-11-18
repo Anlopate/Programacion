@@ -38,5 +38,10 @@ def media (lista):
 
 print (f"La media de la lista es {media(lista)}")
 
-def factorial (lista):
-    
+"""def factorial (lista):
+
+fact=1
+for i in range (len(lista)):
+    fact=fact*(lista[i])
+      
+print (fact)"""   
